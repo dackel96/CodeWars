@@ -1,0 +1,15 @@
+E:\GitHub\CodeWars\SeatingStudents\SeatingStudents\bin\Debug\net6.0\SeatingStudents.exe
+E:\GitHub\CodeWars\SeatingStudents\SeatingStudents\bin\Debug\net6.0\SeatingStudents.deps.json
+E:\GitHub\CodeWars\SeatingStudents\SeatingStudents\bin\Debug\net6.0\SeatingStudents.runtimeconfig.json
+E:\GitHub\CodeWars\SeatingStudents\SeatingStudents\bin\Debug\net6.0\SeatingStudents.dll
+E:\GitHub\CodeWars\SeatingStudents\SeatingStudents\bin\Debug\net6.0\SeatingStudents.pdb
+E:\GitHub\CodeWars\SeatingStudents\SeatingStudents\obj\Debug\net6.0\SeatingStudents.csproj.AssemblyReference.cache
+E:\GitHub\CodeWars\SeatingStudents\SeatingStudents\obj\Debug\net6.0\SeatingStudents.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\CodeWars\SeatingStudents\SeatingStudents\obj\Debug\net6.0\SeatingStudents.AssemblyInfoInputs.cache
+E:\GitHub\CodeWars\SeatingStudents\SeatingStudents\obj\Debug\net6.0\SeatingStudents.AssemblyInfo.cs
+E:\GitHub\CodeWars\SeatingStudents\SeatingStudents\obj\Debug\net6.0\SeatingStudents.csproj.CoreCompileInputs.cache
+E:\GitHub\CodeWars\SeatingStudents\SeatingStudents\obj\Debug\net6.0\SeatingStudents.dll
+E:\GitHub\CodeWars\SeatingStudents\SeatingStudents\obj\Debug\net6.0\refint\SeatingStudents.dll
+E:\GitHub\CodeWars\SeatingStudents\SeatingStudents\obj\Debug\net6.0\SeatingStudents.pdb
+E:\GitHub\CodeWars\SeatingStudents\SeatingStudents\obj\Debug\net6.0\SeatingStudents.genruntimeconfig.cache
+E:\GitHub\CodeWars\SeatingStudents\SeatingStudents\obj\Debug\net6.0\ref\SeatingStudents.dll
